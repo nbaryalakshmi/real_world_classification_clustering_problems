@@ -18,8 +18,14 @@ The format of the ‘docword.nytimes.txt’ contains three header lines followed
 #docID wordID count
 
 #...
+
 #...
+
 #docID wordID count
+
 #docID wordID count
+
 Each line in ‘vocab.nytimes.txt’ contains a unique word, where the line number is equal to word id (wordID).
+
+
 
